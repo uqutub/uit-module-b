@@ -1,0 +1,23 @@
+
+
+
+Task:	Todo / Routing / API call / Service
+Target:	20 mins
+
+Follow: 
+    1.  Use your old project ( Todo )
+    2.  Add Routing
+    3.  Make an API Call
+    4.  Create Service
+
+
+After that will learn:
+    1. Service
+    2. Redux
+    3. Middleware / Epic
+
+"redux"
+"react-redux"
+"redux-actions"
+"redux-observable"
+"rxjs"

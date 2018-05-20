@@ -1,0 +1,17 @@
+
+
+
+Task:	Create Todo List (Component Based)
+Target:	20 mins
+
+Follow: 
+    1.  In App Component create todo [] and render it.
+    2.  create component to view your Task (Stateless Component).
+    3.  create component to add / update your Task. (Statefull Component).
+
+
+After that will learn:
+    1. Routing
+    2. Service
+    3. Api Calls
+    4. Intro Redux

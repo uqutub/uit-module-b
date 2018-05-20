@@ -1,0 +1,15 @@
+1. Install CLI      ()Done
+2. Hello World      (Done)
+3. Multiple Component (Home / Contact / About)
+
+
+5. Nested Components  
+6. Todo List (using inputs/outputs)
+
+    Features (For Add and Update Create One Component)
+        * Add
+        * Update
+        * Delete
+        * Show List
+
+
